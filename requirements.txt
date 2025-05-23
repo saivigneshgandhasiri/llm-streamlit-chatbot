@@ -1,0 +1,7 @@
+streamlit
+ollama
+langchain
+PyPDF2
+faster-whisper
+sounddevice
+openai-whisper  # if used
